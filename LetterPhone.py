@@ -1,4 +1,4 @@
-class Solution:
+class LetterPhone:
     
     
     def compare(item1, item2):
